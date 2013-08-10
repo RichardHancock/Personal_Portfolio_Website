@@ -1,0 +1,24 @@
+body {
+	background-color: #EEEEEE;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+
+/* Main Menu */
+.MainMenuButton {
+	width: 400px;
+	height: 93px;
+	background-color: red;
+	font-size: 24pt;
+	margin-bottom: 20px;
+	padding-top: 57px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.MainMenuButtonLabel {
+	text-align: center;
+}
